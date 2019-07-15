@@ -66,6 +66,27 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
+.logo-bg {
+    background: url('../img/logo.png');
+    background-repeat: no-repeat;
+    height: 36px;
+    width: 183px;
+}
+
+.hero-bg {
+    background: url('../img/header-img.png');
+    background-repeat: no-repeat;
+    height: 379px;
+    width: 379px;
+}
+
+.middle-bg {
+    background: url('../img/mid-page-accent.jpg');
+    background-repeat: no-repeat;
+    height: 182px;
+    width: 876px;
+}
+
 p {
     font-family: 'Montserrat', sans-serif;
 }
