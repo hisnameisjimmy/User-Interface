@@ -66,6 +66,10 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .wrapper {
     z-index: 1;
     width: 1024px;
@@ -107,10 +111,11 @@ nav a {
     display: inline-block;
     font-size: 14px;
     color: #fff;
-    padding: 10px 33px;
+    padding: 10px 30px;
     text-decoration: none;
     vertical-align: middle;
     transition: background .3s ease-in-out;
+    font-family: 'Montserrat', sans-serif;
 }
 
 nav a:last-child {
