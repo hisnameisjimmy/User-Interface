@@ -186,6 +186,34 @@ nav a.logo-link {
     width: 200px;
 }
 
+.headline {
+    padding: 120px 70px;
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.headline section {
+    display: inline-block;
+}
+
+.headline-image {
+    vertical-align: top;
+    width: 25%;
+}
+
+section.headline-section {
+    width: 70%;
+}
+
+.headline-section h1 {
+    text-align: left;
+}
+
+.headline-section p {
+    font-size: 40px;
+    line-height: 55px;
+}
+
 .two-column section {
     width: 49%;
     border-top: 1px solid #000;
